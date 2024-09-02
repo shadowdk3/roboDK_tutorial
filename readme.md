@@ -16,3 +16,19 @@ https://www.youtube.com/watch?v=uxlfxglE2YE
 
 https://www.youtube.com/watch?v=gNgCwwpZrWE
 
+## Robot Movements
+
+- Robot movements dragging coordinate systems
+- Robot panel and coordinate systems
+- Joint axis jog
+
+https://www.youtube.com/watch?v=ilmJSD-a9bs
+
+## Robot Targets
+
+- Create a new robot target
+- Rename a target (keyboard shortcut: F2)
+- Move robot targets in the 3D view (keyboard shortcut: Alt)
+- Teach targets on a surface
+
+https://www.youtube.com/watch?v=ylKTq03-b_A
