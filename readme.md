@@ -52,3 +52,14 @@ https://www.youtube.com/watch?v=38Yzhsom54E
 
 https://www.youtube.com/watch?v=cPdMY4IO0cY
 
+## Offline simulator
+
+`Need to setup python env for ubuntu first`
+
+- Edit the Python script
+- Simulate the program
+- Adding user input
+- Pick and place example with Python
+
+https://www.youtube.com/watch?v=Ic-iKGSc7dk&list=PLjiA6TvRACQdHtxxvigJibSXmQDE_JrDS&index=25
+
