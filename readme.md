@@ -41,3 +41,14 @@ https://www.youtube.com/watch?v=ylKTq03-b_A
 - Useful tools to create programs quickly
 
 https://www.youtube.com/watch?v=38Yzhsom54E
+
+## Export Simulations
+
+- Export a single 3D HTML document that includes the simulation
+- Export a 3D PDF document that includes the robot simulation
+- Export a ZIP or EXE simulation including the RoboDK-Viewer app
+- Generate a robot program supported by your robot controller
+- Introduction to macros to simulate a paint gun
+
+https://www.youtube.com/watch?v=cPdMY4IO0cY
+
